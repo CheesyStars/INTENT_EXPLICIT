@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aplikasi Pemrograman Mobile</string>
+    <string name="optionDesc">Pilihlah Aplikasi Di Bawah Ini</string>
+    <string name="addNumberDesc">ADD NUMBER</string>
+    <string name="cetakNamaDesc">ADD TEXT</string>
+    <string name="kalkulatorRuangDesc">KALKULATOR RUANG</string>
+    <string name="panjang">PANJANG</string>
+    <string name="lebar">LEBAR</string>
+    <string name="tinggi">TINGGI</string>
+    <string name="hitung">HITUNG</string>
+    <string name="hasil">HASIL</string>
+    <string name="halo">Masukkan Identitas Anda</string>
+    <string name="submit">SUBMIT</string>
+    <string name="result">HASIL</string>
+    <string name="addNumber">ADD</string>
+    <string name="number">0</string>
+    <string name="nama">Nama Anda</string>
+    <string name="nim">NIM Anda</string>
+    <string name="prodi">Prodi Anda</string>
+    <string name="namaDesc">Nama</string>
+    <string name="nimDesc">NIM</string>
+    <string name="prodiDesc">Prodi</string>
+    <string name="kubusDesc">Menghitung Volume dan Luas Kubus</string>
+    <string name="inputSisi">Sisi Kubus</string>
+    <string name="hasilVolume">Volume</string>
+    <string name="hasilLuas">Luas</string>
+</resources>

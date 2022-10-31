@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_margin="20dp"
+        android:textSize="10pt"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:text="@string/optionDesc"
+        android:textSize="8pt"
+        android:layout_marginTop="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnAddNumber"
+        android:layout_marginTop="40dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/addNumberDesc" />
+
+    <Button
+        android:id="@+id/btnCetakNama"
+        android:layout_marginTop="25dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/cetakNamaDesc" />
+
+    <Button
+        android:id="@+id/btnKalkulatorRuang"
+        android:layout_marginTop="25dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/kalkulatorRuangDesc" />
+
+</LinearLayout>
